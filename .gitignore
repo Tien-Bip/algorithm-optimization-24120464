@@ -1,0 +1,10 @@
+# Compiled Binaries
+/baseline
+/optimized
+/benchmark
+
+# Object files
+*.o
+
+# Python cache
+__pycache__/
